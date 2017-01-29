@@ -1,0 +1,11 @@
+.loginForm {
+    text-align: center;
+}
+
+.loginForm__fake-button {
+    display: none;
+}
+
+.loginForm__login-button {
+    margin-top: 25px;
+}

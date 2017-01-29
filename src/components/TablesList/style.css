@@ -1,0 +1,7 @@
+.tableList {
+    height: 100vh;
+    display: flex;
+    flex-wrap: nowrap;
+
+    overflow: scroll;
+}

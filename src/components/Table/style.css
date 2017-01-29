@@ -1,0 +1,27 @@
+.table {
+    margin: 0 25px;
+
+    width: 160px;
+    height: 200px;
+    flex-grow: 0;
+    flex-shrink: 0;
+
+    text-align: center;
+
+    background: #64B5F6;
+    border-radius: 10%;
+}
+
+.table__title {
+    margin-top: 10px;
+
+    min-height: 55px;
+}
+
+.table__league {
+    margin-top: 10px;
+}
+
+.table__button-remove {
+    margin-top: 10px;
+}
